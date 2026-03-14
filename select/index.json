@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "今日の日はさようなら",
+  "base_artist": "森山 良子",
+  "createdAt": "2026-03-14T13:40:04.178811Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "今日の日はさようなら-Tribute to \"Sound of Music\"",
+      "artist": "Megumi Hayashibara",
+      "has_synced": true,
+      "path": "select/01_今日の日はさようなら-Tribute_to__Sound_of_Music_Megumi_Hayashibara.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kyou no Hi wa Sayounara [今日の日はさようなら]",
+      "artist": "Megumi Hayashibara",
+      "has_synced": true,
+      "path": "select/02_Kyou_no_Hi_wa_Sayounara_[今日の日はさようなら]_Megumi_Hayashibara.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "今日の日はさようなら",
+      "artist": "林原めぐみ",
+      "has_synced": true,
+      "path": "select/03_今日の日はさようなら_林原めぐみ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "今日の日はさようなら-Tribute to \"Sound of Music\"",
+      "artist": "Megumi Hayashibara, 金子詔一, 金子詔一",
+      "has_synced": true,
+      "path": "select/04_今日の日はさようなら-Tribute_to__Sound_of_Music_Megumi_Hayashibara,_金子詔一,_金子詔一.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "今日の日はさようなら – Tribute to \"Sound of Music\"",
+      "artist": "林原めぐみ",
+      "has_synced": true,
+      "path": "select/05_今日の日はさようなら_–_Tribute_to__Sound_of_Music_林原めぐみ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "今日の日はさようなら 〜Maternal Version〜 (off vocal version)",
+      "artist": "Hayashibara, Megumi",
+      "has_synced": false,
+      "path": "select/06_今日の日はさようなら_〜Maternal_Version〜_(off_vocal_version)_Hayashibara,_Megumi.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "今日の日はさようなら 〜Maternal Version〜",
+      "artist": "Hayashibara, Megumi",
+      "has_synced": false,
+      "path": "select/07_今日の日はさようなら_〜Maternal_Version〜_Hayashibara,_Megumi.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "今日の日はさようなら – Tribute to \"Sound of Music\"",
+      "artist": "Hayashibara, Megumi",
+      "has_synced": true,
+      "path": "select/08_今日の日はさようなら_–_Tribute_to__Sound_of_Music_Hayashibara,_Megumi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "今日の日はさようなら - Tribute to ''Sound of Music''",
+      "artist": "鷺巣詩郎",
+      "has_synced": true,
+      "path": "select/09_今日の日はさようなら_-_Tribute_to_''Sound_of_Music''_鷺巣詩郎.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "今日の日はさようなら – Tribute to \"Sound of Music\"",
+      "artist": "鷺巣詩郎",
+      "has_synced": true,
+      "path": "select/10_今日の日はさようなら_–_Tribute_to__Sound_of_Music_鷺巣詩郎.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "今日の日はさようなら – Tribute to \"Sound of Music\"",
+      "artist": "Megumi Hayashibara",
+      "has_synced": true,
+      "path": "select/11_今日の日はさようなら_–_Tribute_to__Sound_of_Music_Megumi_Hayashibara.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "今日の日はさようなら-Tribute to \"Sound of Music\"",
+      "artist": "Megumi Hayashibara",
+      "has_synced": true,
+      "path": "select/12_今日の日はさようなら-Tribute_to__Sound_of_Music_Megumi_Hayashibara.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "今日の日はさようなら - Tribute to ''Sound of Music''",
+      "artist": "Shiro Sagisu",
+      "has_synced": true,
+      "path": "select/13_今日の日はさようなら_-_Tribute_to_''Sound_of_Music''_Shiro_Sagisu.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "今日の日はさようなら 〜Maternal Version〜 (off vocal version)",
+      "artist": "林原めぐみ",
+      "has_synced": false,
+      "path": "select/14_今日の日はさようなら_〜Maternal_Version〜_(off_vocal_version)_林原めぐみ.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "今日の日はさようなら - Tribute to \"Sound of Music\"",
+      "artist": "林原 めぐみ、杉並少年少女合唱団",
+      "has_synced": true,
+      "path": "select/15_今日の日はさようなら_-_Tribute_to__Sound_of_Music_林原_めぐみ、杉並少年少女合唱団.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今日の日はさようなら",
+      "artist": "森山 良子",
+      "has_synced": false,
+      "path": "select/pl_01_今日の日はさようなら_森山_良子.txt"
+    }
+  ]
+}
